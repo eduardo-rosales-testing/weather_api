@@ -1,0 +1,21 @@
+{
+  "name": "weather_api",
+  "version": "1.0.0",
+  "description": "This is a demonstration project for handling authenticated api requests for a traveling web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "jwt",
+    "mongoose"
+  ],
+  "author": "Eduardo Rosales",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
